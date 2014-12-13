@@ -1,0 +1,30 @@
+{
+  "name": "osa-contacts",
+  "version": "0.0.0",
+  "description": "Access contact information on OSX with Node.JS",
+  "author": {
+    "name": "Will Franzen",
+    "email": "wtfranzen@gmail.com",
+    "url": "http://will.xyz"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtfaremyinitials/osa-contacts.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "exec-sync": "^0.1.6",
+    "osa": "^2.0.1",
+    "walk": "^2.3.4"
+  },
+  "keywords": [
+    "contacts",
+    "osx",
+    "yosemite",
+    "jxa",
+    "osa",
+    "photos",
+    "address"
+  ]
+}
